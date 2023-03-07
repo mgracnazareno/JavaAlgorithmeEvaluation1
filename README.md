@@ -2,11 +2,11 @@
 * Les questions suivantes sont utilisées pour évaluer nos connaissances dans le programme Java Algorithm. 
 Ceci est notre premier examen d'évaluation. Par conséquent, ce référentiel est ma réponse aux problèmes posés.
 # Exercice 1
-*ecrire un programme Java permettant d'afficher la saison selon la temperature entree par l'utilisateur . 
+*Ecrire un programme Java permettant d'afficher la saison selon la temperature entree par l'utilisateur . 
 votre programme devra afficher le nom de la saison accompagne de la temperature correspondante.
 
 # Exercice 2
-*ecrire un programme qui permet de demander a un enseignant d'entres les notes des etudiants de son groupe.
+*Ecrire un programme qui permet de demander a un enseignant d'entres les notes des etudiants de son groupe.
 L'enseignant doit abord mentionner le nombre d'etudiants qu'il a dans le groupe. ensuite saisir les notes une par une.
 on vous demande d'afficher la meilleure note et la pire note
 on vous demande egalement d'afficher a quelle position ces deux notes ont ete trouvee.
