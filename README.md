@@ -1,5 +1,5 @@
 # JavaAlgorithmeEvaluation1
-# Les questions suivantes sont utilisées pour évaluer nos connaissances dans le programme Java Algorithm. 
+* Les questions suivantes sont utilisées pour évaluer nos connaissances dans le programme Java Algorithm. 
 Ceci est notre premier examen d'évaluation. Par conséquent, ce référentiel est ma réponse aux problèmes posés.
 # Exercice 1
 *ecrire un programme Java permettant d'afficher la saison selon la temperature entree par l'utilisateur . 
